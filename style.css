@@ -1,0 +1,137 @@
+body{
+            background-image: url(img/wallpaper1.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .tutto, div.paragrafo{
+            width: 75%;
+            float: right;
+            margin-right: 5%;
+            
+        }
+
+        div.paragrafo{
+            margin-top: 2%;
+        }
+        .bottone{
+            width: 100%;
+        }
+
+        .selectValues{
+            width: 25%;
+            margin: 0 auto;
+            float: right;
+        }
+        .titleSelect{
+            text-align: right;
+        }
+        div.title{
+            margin-top: 1%;
+            margin-bottom: 1%;
+            text-align: center;
+        }
+
+        div.col1{
+            height: 100%;
+            width: 17%;
+            position: fixed;
+            background-color: #F5F5F5;
+            overflow-x: hidden;
+            background-image: url(img/wallpaper3.jpg);
+            color: white;
+            border-radius: 10px 10px 0 0;
+        }
+
+        a.btn{
+            width: 75%;
+            margin-left: 11%;
+            margin-top: 5%;
+            background-color: #DCDCDC;
+            color: black;
+        }
+
+        .formLogin{
+            width: 70%;
+            margin: 0 auto;
+            margin-top: 7%;
+        }
+
+        .loginButton{
+            width: 70%;
+            margin-right: 15%;
+            margin-top: 10%;
+            background-color: white;
+        }
+
+        h4.login{
+            padding-top: 3%;
+            text-align: center;
+            color: black;
+            
+        }
+
+        div.login{
+            background-color: #DCDCDC;
+            height: 7%;
+        }
+
+        .loginRegistrati{
+            margin-top: 5%;
+        }
+
+        p.notRegister{
+            margin-left: 10%;
+        }
+
+        .formulas{
+            margin-top: 4%;
+            width: 60%;
+            float: right;
+        }
+
+        .card{
+            margin: 0 auto;
+            width: 50%;
+            background-image: url(img/wallpaper3.jpg);
+            padding: 20px;
+            margin-top: 30px;
+            border-radius: 8px 8px 8px 8px;
+            font-family: Arial;
+            color: #DCDCDC;
+            text-align: center;
+          }
+          
+          h1.title{
+              padding: 2%;
+              text-align: center;
+              border-radius: 8px 8px 8px 8px;
+              font-family: 'Times New Roman', Times, serif;
+              color: black;
+          }
+
+          h1.titleCorn{
+            padding: 2%;
+            background-color: #DCDCDC;
+            text-align: center;
+            border-top-right-radius: 8px;
+            border-top-left-radius: 8px;
+            font-family: 'Times New Roman', Times, serif;
+            color: black;
+            font-size: 30px;
+        }
+
+        .btnPass{
+            background-image: url(img/wallpaper3.jpg);
+        }
+
+        .changePass{
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        .avatar{
+            width: 16%;
+            height: auto;
+        }
+          
